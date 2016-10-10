@@ -27,3 +27,5 @@
 \contentsline {section}{\numberline {4}String}{5}
 \contentsline {subsection}{\numberline {4.1}Extended Knuth-Morris-Pratt Algorithm}{5}
 \contentsline {subsection}{\numberline {4.2}Suffix Array}{5}
+\contentsline {subsection}{\numberline {4.3}Aho\IeC {\textendash }Corasick Automaton}{5}
+\contentsline {subsection}{\numberline {4.4}Z-Value}{6}

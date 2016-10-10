@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1476123811 "codebook.tex" "codebook.pdf" "codebook" 1476123812
+["pdflatex"] 1476124550 "codebook.tex" "codebook.pdf" "codebook" 1476124551
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -47,11 +47,11 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1475393868 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1475393987 3873397 2b6af4225b5eeec4382ee209ce4f5fe0 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "codebook.aux" 1476123811 2627 e2188dd6427d99648e7a1393534d20aa ""
-  "codebook.tex" 1475851542 23031 cff1b0646ffb79c686ef88e46ec72450 ""
-  "codebook.toc" 1476123811 2097 a62c42f1e96dff5f6b43caed83ea32fa ""
+  "codebook.aux" 1476124551 2808 5c9ca3e458215a0a5c3b105c53ed90bc ""
+  "codebook.tex" 1476124549 25943 728e0a07141b582add0a0eb94af27937 ""
+  "codebook.toc" 1476124551 2242 04373aa837202ea72a98ddce9ce14ddc ""
   (generated)
+  "codebook.aux"
   "codebook.log"
   "codebook.toc"
   "codebook.pdf"
-  "codebook.aux"
