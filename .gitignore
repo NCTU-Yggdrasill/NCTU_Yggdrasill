@@ -11,7 +11,6 @@ Ankh.NoLoad
 *.aux
 *.fdb_latexmk
 *.fls
-*.pdf
 *.toc
 *.7z
 *.gz
