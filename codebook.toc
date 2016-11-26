@@ -1,31 +1,44 @@
-\contentsline {section}{\numberline {1}Mathematics}{1}
-\contentsline {subsection}{\numberline {1.1}Extended Euclidean Algorithm}{1}
-\contentsline {subsection}{\numberline {1.2}Euler's Totient Function ($\phi (n)$)}{1}
-\contentsline {subsection}{\numberline {1.3}Modular Multiplicative Inverse}{1}
-\contentsline {subsubsection}{\numberline {1.3.1}$ext\_gcd(a, b, x, y)$}{1}
-\contentsline {subsubsection}{\numberline {1.3.2}$\phi (n)$}{1}
-\contentsline {subsection}{\numberline {1.4}Chinese Remainder Theorem}{1}
-\contentsline {subsection}{\numberline {1.5}Miller\IeC {\textendash }Rabin Primality Test}{1}
-\contentsline {section}{\numberline {2}Graph}{1}
-\contentsline {subsection}{\numberline {2.1}Trees}{1}
-\contentsline {subsubsection}{\numberline {2.1.1}Kirchhoff's Matrix Tree Theorem}{1}
-\contentsline {subsubsection}{\numberline {2.1.2}Pr\IeC {\"u}fer Code}{2}
-\contentsline {subsubsection}{\numberline {2.1.3}Cayley's formula: the number of labeled spanning trees}{2}
-\contentsline {subsection}{\numberline {2.2}Connectivity}{2}
-\contentsline {subsubsection}{\numberline {2.2.1}Articulation Points and Bridges}{2}
-\contentsline {subsection}{\numberline {2.3}Flow}{2}
-\contentsline {subsubsection}{\numberline {2.3.1}Maximum Flows}{2}
-\contentsline {subsubsection}{\numberline {2.3.2}Minimum Cost Maximum Flow}{2}
-\contentsline {subsection}{\numberline {2.4}Matching}{3}
-\contentsline {subsubsection}{\numberline {2.4.1}Maximum Weighted Bipartite Matching: Kuhn-Munkres Algorithm}{3}
-\contentsline {subsubsection}{\numberline {2.4.2}Stable Marriage}{3}
-\contentsline {section}{\numberline {3}Computational Geometry}{4}
-\contentsline {subsection}{\numberline {3.1}Implementation}{4}
-\contentsline {subsection}{\numberline {3.2}Closest Pair Problem}{4}
-\contentsline {subsection}{\numberline {3.3}Farthest Pair Problem}{5}
-\contentsline {subsection}{\numberline {3.4}Minimum Enclosing Circle}{5}
-\contentsline {section}{\numberline {4}String}{5}
-\contentsline {subsection}{\numberline {4.1}Extended Knuth-Morris-Pratt Algorithm}{5}
-\contentsline {subsection}{\numberline {4.2}Suffix Array}{5}
-\contentsline {subsection}{\numberline {4.3}Aho\IeC {\textendash }Corasick Automaton}{5}
-\contentsline {subsection}{\numberline {4.4}Z-Value}{6}
+\contentsline {section}{\numberline {1}Building Environment}{2}
+\contentsline {subsection}{\numberline {1.1}Default}{2}
+\contentsline {subsection}{\numberline {1.2}Print File}{2}
+\contentsline {subsection}{\numberline {1.3}Vimrc}{2}
+\contentsline {section}{\numberline {2}To Be Classify}{2}
+\contentsline {subsection}{\numberline {2.1}AC Trie}{2}
+\contentsline {subsection}{\numberline {2.2}BCC}{3}
+\contentsline {subsection}{\numberline {2.3}BigInteger}{3}
+\contentsline {subsection}{\numberline {2.4}Bipartite Matching}{4}
+\contentsline {subsection}{\numberline {2.5}BK}{4}
+\contentsline {subsection}{\numberline {2.6}Black Magic}{5}
+\contentsline {subsection}{\numberline {2.7}Blossom}{5}
+\contentsline {subsection}{\numberline {2.8}Dice}{6}
+\contentsline {subsection}{\numberline {2.9}Dinic}{7}
+\contentsline {subsection}{\numberline {2.10}Dinic Flow}{7}
+\contentsline {subsection}{\numberline {2.11}Extgcd}{8}
+\contentsline {subsection}{\numberline {2.12}General Weighted Matching}{8}
+\contentsline {subsection}{\numberline {2.13}Geometry}{12}
+\contentsline {subsection}{\numberline {2.14}Heavy Light Decomposition}{14}
+\contentsline {subsection}{\numberline {2.15}Huafen}{15}
+\contentsline {subsection}{\numberline {2.16}KDtree Insert}{16}
+\contentsline {subsection}{\numberline {2.17}KM}{18}
+\contentsline {subsection}{\numberline {2.18}KM N3}{19}
+\contentsline {subsection}{\numberline {2.19}KM No Big Int}{19}
+\contentsline {subsection}{\numberline {2.20}Maximum Density}{20}
+\contentsline {subsection}{\numberline {2.21}Min Cost Flow}{21}
+\contentsline {subsection}{\numberline {2.22}Mincostflow}{21}
+\contentsline {subsection}{\numberline {2.23}Monotone}{22}
+\contentsline {subsection}{\numberline {2.24}MST Directed}{22}
+\contentsline {subsection}{\numberline {2.25}NTT}{23}
+\contentsline {subsection}{\numberline {2.26}SCC}{24}
+\contentsline {subsection}{\numberline {2.27}Splay Tree}{25}
+\contentsline {subsection}{\numberline {2.28}Stable Marriage}{26}
+\contentsline {subsection}{\numberline {2.29}Suffix Array}{27}
+\contentsline {subsection}{\numberline {2.30}Suffix Automaton}{27}
+\contentsline {subsection}{\numberline {2.31}Tonelli Shanks}{28}
+\contentsline {subsection}{\numberline {2.32}Treap}{29}
+\contentsline {subsection}{\numberline {2.33}Z Algorithm}{29}
+\contentsline {section}{\numberline {3}Lucas's theorem}{29}
+\contentsline {section}{\numberline {4}無權邊的生成樹個數 Kirchhoff's Theorem}{29}
+\contentsline {section}{\numberline {5}monge}{29}
+\contentsline {section}{\numberline {6}四心}{29}
+\contentsline {section}{\numberline {7}Runge-Kutta}{30}
+\contentsline {section}{\numberline {8}Householder Matrix}{30}
